@@ -30,3 +30,9 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Executables
+pokedexcli
+
+#Log files
+repl.log
